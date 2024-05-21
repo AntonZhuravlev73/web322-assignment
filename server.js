@@ -12,7 +12,7 @@ this assignment and possibly
 * Name: Anton Zhuravlev
 * Student ID: 108568239
 * Date: 5/21/2024
-* Vercel Web App URL:
+* Vercel Web App URL: https://vercel.com/antonzhuravlev73s-projects/web322-assignment
 * GitHub Repository URL: https://github.com/AntonZhuravlev73/web322-assignment
 **/
 console.log("Anton Zhuravlev - 108568239");
